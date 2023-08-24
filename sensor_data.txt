@@ -1,0 +1,10 @@
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
+{"accX":0,"accY":-0.004788403,"accZ":78.08449554,"Tummy":1,"Back":1,"Left Cheek":1,"Right Cheek":1,"Head":1}
