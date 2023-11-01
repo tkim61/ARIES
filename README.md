@@ -1,19 +1,30 @@
 # ARIES
 Files for the ARIES project at Brown University
+
 The Arduino folder contains all the arduino files
+
 This project is intended to be run with an ESP32 chip connected to a raspberry pi zero W
+
 Arduino IDE was used to write all the arduino files that run on the ESP32.
+
 The board was set up with a ESP32-DEV board manager, at a 11920 baud rate.
+
 Code is modified and influenced by sources including, but not limited to:
+
 RandomNerd Tutorials, Arduino default libraries, and Dronebot Workshop.
+
 Please also see abhaykulkarni/aries, though most of that code should be here as well.
 
 
 
-University Required Disclaimer:
-Copyright 2023, Brown University, Providence, RI.
 
-                        All Rights Reserved
+
+
+
+UNIVERSITY REQURIED DISCLAIMER:
+All Rights Reserved
+
+Copyright 2023, Brown University, Providence, RI.
 
 Permission to use, copy, modify, and distribute this software and
 its documentation for any purpose other than its incorporation into a
